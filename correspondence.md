@@ -1,6 +1,6 @@
 Sender, Receiver, Date 
 
-Sam Houston, J. Pinckney Henderson, December 31 1836
+  Sam Houston, J. Pinckney Henderson, December 31 1836
 
 James Webb, Alc6e La Branche, May 27 1839
 
