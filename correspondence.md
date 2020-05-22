@@ -15,96 +15,187 @@
 ~Nathaniel Amory,Richard G. Dunlap, October 25 1839
 
 ~John Emberson,Albert Sidney Johnston, September 2 1839
+
 ~David G. Burnet,Alc6e La Branche, November 29 1839
+
 ~David G. Burnet,Alc6e La Branche, December 3 1839
+
 ~David G. Burnet,Alc^ La Branche, December 7 1839
+
 ~William Scurlock,David G. Burnet, November 30 1839
+
 ~William M. Williams,David G. Burnet, November 30 1839
+
 ~D. Rowlett,David G. Bumet, undated 61 
+
 ~David G. Bumet,Alc6e La Branche, December 16 1839
+
 ~David G. Bumet,Alc^ La Branche, December 17 1839
+
 ~David G. Bumet,Alc^e La Branche, December 20 1839
+
 ~D. Rowlett,David G. Bumet, January 5 1840
+
 ~David G. Bumet,Richard G. Dunlap, January 20 1840
+
 ~Abner S. Lipscomb,Alc^ La Branche, April 1 1840
+
 ~Abner S. Lipscomb,James Hamilton and A. T. Bumley, AugUHt 15, 
+
 ~Joseph Waplee,Barnard E. Bee, September 19 1840
+
 ~Abner S. Lipscomb,Geo. H. Flood, December 13 1840
+
 ~Joseph Waplee,Nathaniel Amory, January 5 1841
+
 ~Joseph Waples,Geo. H. Flood, January 28 1841
+
 ~Joseph Waplee,Geo. H. Flood, February 2 1841
+
 ~Joseph Waples,Geo. H. Flood, February 3 1841
+
 ~James S. Mayfield,Geo. H. Flood, February 12 1841
+
 ~James S. Mayfield,Barnard E. Bee, February 17 1841
+
 ~James S. Mayfield,Barnard E. Bee, March 22 1841
+
 ~Geo. H. Flood,Jamee S. Mayfield, March 25 1841
+
 ~James S. Mayfield,Geo. H. Flood, March 29 1841
+
 ~Geo. H. Flood,James S. Mayfield, March 31 1841
+
 ~James S. Mayfield,Barnard E. Bee, April 20 1841
+
 ~James S. Mayfield,Nathaniel Amory, April 24 1841
+
 ~Samuel A. Roberta,Barnard E. Bee, June 21 1841
+
 ~Samuel A. Roberts,Barnard E. Bee, July 8 1841
+
 ~Samuel A. Roberta,Joseph Eve, August 11 1841
+
 ~Samuel A. Roberta,Joseph Eve, August 17 1841
+
 ~Samuel A. Roberts,Barnard E. Bee, September 7 1841
+
 ~Sam Houston,Joseph Eve, July 30 1842
+
 ~Sam Houston,A. B. Roman, September 12 1842
+
 ~Sam Houston,A. B. Roman, October 29 1842
+
 ~Isaac Van Zandt,Anson Jones, January 11 1843
+
 ~Joseph Eve,Anson Jones, January 11 1843
+
 ~Isaac Van Zandt,Anson Jones, January 20 1843
+
 ~J. C. Spencer,Isaac Van Zandt, January 17 1843
+
 ~T. Hartley Crawford,Wm. Armstrong, January 12 1843
+
 ~R. Jones,W. Davenport and G. Loomis, January 13 1843
+
 ~Isaac Van Zandt,Anson Jones, January 25 1843
+
 ~Joseph Eve,Anson Jones, January 26 1843
+
 ~M. E. Hale,Joseph Eve, December 27 1842
+
 ~Anson Jones,Isaac Van Zandt, January 31 1843
+
 ~Anson Jones,Joseph Eve, February 5 1843
+
 ~Anson Jones,Isaac Van Zandt, February 10 1843
+
 ~Wm. Henry Daingerfield,Anson Jones, February 14 1843
+
 ~Anson Jones,Isaac Van Zandt, February 16 1843
+
 ~Sam Houston,Joseph Eve, February 17 1843
+
 ~Joseph Eve,Joseph Waples, February 27 1843
+
 ~Copy and sunmiary of instructions United States Department of State to 
+
 ~Joseph Eve as charg^ to Texaa, June 15 1841
+
 ~Wm. Henry Daingerfield,Anson Jones, March 10 1843
+
 ~Joseph Eve,Anson Jones, March 13 1843
+
 ~Isaac Van Zandt,Anson Jones, March 13 1843
+
 ~' Daniel Webster,Isaac Van Zandt, March 11 1843
+
 ~Isaac Van Zandt,William S. Archer, January 10 1843
+
 ~Isaac Van Zandt,Anson Jones, April 5 1843
+
 ~Isaac Van Zandt,Daniel Webster, March 23 1843
+
 ~Joseph Eve,Anson Jones, April 13 1843
+
 ~Isaac Van Zandt,Anson Jones, April 19 1843
+
 ~Isaac Van Zandt,Anson Jones, April 21 1843
+
 ~Anson Jones,Joseph Eve, April 22 1843
+
 ~Joseph Eve,Anson Jones, April 28 1843
+
 ~ReubenM. Potter,A. M. Green, March 10 1843
+
 ~A. M. Green,Joseph Eve, March 17 1843
+
 ~Isaac Van Zandt,Anson Jones, May 3 1843
+
 ~Sam Houston,Joseph Eve, May 6 1843
+
 ~Anson Jones,Isaac Van Zandt, May 8 1843
+
 ~Anson Jones,Isaac Van Zandt, May 9 1843
+
 ~Joseph W. Robertson,Anson Jones, April 20 1843
+
 ~Chas. H. Raymond,Anson Jones, May 12 1843
+
 ~Anson Jones,Joseph Eve, May 16 1843
+
 ~Anson Jones,Joseph Eve, May 17 1843
+
 ~Anson Jones,Isaac Van Zandt, June 1 1843
+
 ~Jesse Benton,Anson Jones, May 1 1843
+
 ~Isaac Van Zandt,Anson Jones, June 5 1843
+
 ~Petition of Joseph Cooper,the Texan minister 187 
+
 ~Anson Jones,Isaac Van Zandt, June 8 1843
+
 ~Joseph Eve,President of Texas [Houston], June 10 1843
+
 ~Anson Jonee,Isaac Van Zandt, June 15 1843
+
 ~Isaac Van Zandt,Anson Jones, June 29 1843
+
 ~Anson Jones,Isaac Van Zandt, July 6 1843
+
 ~Anson Jones,Isaac Van Zandt, July 7 1843
+
 ~Isaac Van Zandt,Anson Jones, August 10 1843
+
 ~Isaac Van Zandt,Anson Jones, August 15 1843
+
 ~J. M. Porter,H. S. Legar^, May 11 1843
+
 ~William Armstrong,T. H. Crawford, April 10 1843
+
 ~William Armstrong,T. H. Crawford 203 
+
 ~Chas. H. Raymond,Anson Jones, August 20 1843
 ~Isaac Van Zandt,Anson Jones, August 31 1843
 ~Isaac Van Zandt,Anson Jones, September 18 1843
