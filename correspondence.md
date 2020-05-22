@@ -20,7 +20,7 @@ D. Rowlett,David G. Bumet, January 5 1840
 David G. Bumet,Richard G. Dunlap, January 20 1840
 Abner S. Lipscomb,Alc^ La Branche, April 1 1840
 Abner S. Lipscomb,James Hamilton and A. T. Bumley, AugUHt 15, 
-Joseph Waplee,Barnard E. Bee, September 19 1840
+Joseph Waplee,Barnard E. Bee, September 19 1840 
 Abner S. Lipscomb,Geo. H. Flood, December 13 1840
 Joseph Waplee,Nathaniel Amory, January 5 1841
 Joseph Waples,Geo. H. Flood, January 28 1841
