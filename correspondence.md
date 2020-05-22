@@ -822,7 +822,6 @@
 
 ~Joaquin Rivas Sayas,E. W. Moore, October 17 1840
 
-
 ~Nathaniel Amory,Abner S. Lipscomb, November 27 1840
 
 ~Juan N. Leplicher,Nathaniel Amory, October 17 1840
@@ -883,7 +882,6 @@
 
 ~James Webb,R. Pakenham, June 16 1841
 
-
 ~James Webb,Mirabeau B. Lamar, June 29 1841
 
 ~Samuel A. Roberts,James Webb, July 7 1841
@@ -901,7 +899,6 @@
 ~Mariano Arista,Van Ness and Morris, August 8 1841
 
 ~Brenham and Cooke,Secretary of State [Roberts], November 9 1841
-
 
 ~Anson Jones,James Hamilton, December 26 1842
 
@@ -1004,6 +1001,7 @@
 ~R. A. Irion,J. Pinckney Henderson, May 20 1838
 
 ~R. A. Irion,J. Pinckney Henderson, June 6 1838
+
 ~R. A. Irion,J. Pinckney Henderson, November 28 1838
 
 ~Jamee Hamilton,H. S. Fox, May 20 1839
@@ -1213,6 +1211,7 @@
 ~Ashbel Smith,Lord Aberdeen, July 4 1842
 
 ~Gabriel Shaw,Ashbel Smith, July 5 1842
+
 ~Ashbel Smith,Joseph Hume, July 5 1842
 
 ~Ashbel Smith,Lachlin M. Rate, July 7 1842
@@ -1228,8 +1227,11 @@
 ~Ashbel Smith,Anson Jones, July 12 1842
 
 ~Ashbel Smith,Anson Jones, August 13 1842
+
 ~Ashbel Smith,Wm. Pringle, July 31 1842
+
 ~Wm. Pringle,Ashbel Smith, August4 1842
+
 ~Wm. Pringle,Ashbel Smith, August 5 1842
 
 ~G. W. Terrell,Ashbel Smith, August 20 1842
@@ -1445,6 +1447,7 @@
 ~Ebenezer Allen,William Kennedy, December 23 1844
 
 ~G. W. Terrell,Ashbel Smith, January 21 1845
+
 ~G. W. Terrell,Wm. Henry Daingerfield, January 21 1845
 
 ~G. W. Terrell,Ashbel Smith, January 27 1845
@@ -1577,7 +1580,6 @@
 
 ~James S. Mayfield,A. de Saligny, February 20 1841
 
-
 ~A. de Saligny,James S. Mayfield, February 21 1841
 
 ~James S. Mayfield,A. de Saligny, February 22 1841
@@ -1645,6 +1647,7 @@
 ~James Hamilton,M. Guizot, July 12 1841
 
 ~James Hamilton,James S. Mayfield, July 22 1841
+
 ~James Hamilton,M. Guizot, July 21 1841
 
 ~Geo. S. Mcintosh,Secretary of State [Roberts], September 8 1841
@@ -1731,7 +1734,6 @@
 
 ~Ashbel Smith,Anson Jones, October 21 1842
 
-
 ~Ashbel Smith,Anson Jones, October 31 1842
 
 ~Aflbbel Smith,Anaon Jones, November 2 1842
@@ -1764,7 +1766,6 @@
 
 ~Ashbel Smith,Anson Jones, January 11 1843
 
-
 ~Viscount J. de Cramayel,Anson Jones, January 16 1843
 
 ~Ashbel Smith,Anson Jones, January 28 1843
@@ -1774,8 +1775,6 @@
 ~Anson Jones,Viscount J. de Cramayel, February 9 1843
 
 ~Anson Jones,Viscount J. de Cramayel, February 22 1843
-
-
 
 ~Secretary of State [Jones] to Ashbel Smith, February 26 1843
 
