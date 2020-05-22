@@ -1,5 +1,7 @@
 Sender, Receiver, Date 
+
 Sam Houston, J. Pinckney Henderson, December 31 1836
+
 James Webb, Alc6e La Branche, May 27 1839
 David G. Burnet, Richard G. Dunlap, June 3 1839
 Nathaniel Amory,Richard G. Dunlap, July 24 1839
