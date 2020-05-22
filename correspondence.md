@@ -1150,419 +1150,835 @@ Ashbel Smith,Edward Everett, May 12 1842
 Edward Everett,Ashbel Smith, May 12 1842
 
 Edward Everett,Ashbel Smith, May 13 1842
+
 Edward Everett,Ashbel Smith, May 13 1842
+
 Ashbel Smith,Samuel Amory, May 13 1842
+
 Samuel Amory,George K. Teulon, May 13 1842
+
 Ashbel Smith,Edward Everett, May 13 1842
+
 Edward Everett,Ashbel Smith, May 15 1842
+
 Ashbel Smith,Edward Everett, May 16 1842
+
 A^bel Smith,Lord Aberdeen, May 21 1842
+
 Ashbel Smith,Lord Aberdeen, May 27 1842
+
 Lord Aberdeen,Ashbel Smith, May 30 1842
+
 M. P. Russell,Ashbel Smith, June 4 1842
+
 Ashbel Smith,James Reily, June 6 1842
+
 Ashbel Smith,Geo. S. Mcintosh, June 7 1842
+
 Ashbel Smith,Lord Aberdeen, June 14 1842
+
 M. P. Russell,Ashbel Smith, June 15 1842
+
 Lord Aberdeen,Ashbel Smith, June 17 1842
+
 Ashbel Smith,Geo. S. Mcintosh, June 20 1842
+
 Ashbel Smith,Lord Aberdeen, June 24 1842
+
 lx)rd Aberdeen,Ashbel Smith, June 25 1842
+
 Ashbel Smith,M. P. Russell, June 22 1842
+
 Joseph Hume,Ashbel Smith, June 29 1842
+
 Lachlin M. Rate,Ashbel Smith, June 29 1842
+
 Memorandum concerning War Steamers,be used against Texas, un- 
+
 Wm. Pringle,Ashbel Smith, June 29 (?) 1842
+
 M. P. Russell,Ashbel Smith, June 30 1842
+
 William Kennedy,Ashbel Smith, June 30 1842
+
 Arthur Ikin,Ashbel Smith, July 1 1842
+
 Ashbel Smith,Arthur Ikin, July 2 1842
+
 Fox Sons Co. to Ashbel Smith, July 2 1842
+
 Ashbel Smith,Lord Aberdeen, July 4 1842
+
 Gabriel Shaw,Ashbel Smith, July 5 1842
+
 Ashbel Smith,Joseph Hume, July 5 1842
+
 Ashbel Smith,Lachlin M. Rate, July 7 1842
+
 Wm. Pringle,Ashbel Smith, July 8 1842
+
 Ashbel Smith,Wm. Pringle, July 8 1842
+
 Lachlin M. Rate,Ashbel Smith, July 8 1842
+
 Certificate of Exchange of Ratification of Convention as,Debt be- 
+
 Ashbel Smith,Anson Jones, July 12 1842
+
 Ashbel Smith,Anson Jones, August 13 1842
+
 Ashbel Smith,Wm. Pringle, July 31 1842
+
 Wm. Pringle,Ashbel Smith, August4 1842
+
 Wm. Pringle,Ashbel Smith, August 5 1842
+
 G. W. Terrell,Ashbel Smith, August 20 1842
+
 Charles Elliot,Secretary of State [Jones], August 23 1842
+
 G. W. Terrell,Charles Elliot, August 29 1842
+
 G. W. Terrell,Lord Aberdeen, August 30 1842
+
 Ashbel Smith,Lord Aberdeen, August 15 1842
+
 Charles Elliot,G. W. Terrell, September 10 1842
+
 Joseph Waples,Charles Elliot, September 14 1842
+
 Ashbel Smith,Anson Jones, September 19 1842
+
 Ashbel Smith,Lord Aberdeen, September 14 1842
+
 Ashbel Smith,H. U. Addington, September 14 1842
+
 Ashbel Smith,Texan Consuls, undated 1018 
+
 Ashbel Smith,Anson Jones, September 19 1842
+
 Ashbel Smith,Lord Aberdeen, September 19 1842
+
 Charles Elliot,Anson Jones, September 26 1842
+
 Ashbel Smith,Anson Jones, October 3 1842
+
 Ashbel Smith,Anson Jones, October 3 1842
+
 James Hamilton,Anson Jones, October 5 1842
+
 Ashbel Smith,Anson Jones, October 17 1842
+
 Ashbel Smith,Anson Jones, October 19 1842
+
 Lord Aberdeen,Ashbel Smith, July 16 1842
+
 Lord Aberdeen,Ashbel Smith, September 21 1842
+
 Lord Aberdeen,Ashbel Smith, September 27 1842
+
 Ashbel Smith,Lord Aberdeen, October 10 1842
+
 Charles Elliot,G. W. Terrell, October 31 1842
+
 James Hamilton,Anson Jones, November 25 1842
+
 James Hamilton,Anson Jones, November 25 1842
+
 James Hamilton,Lords of the Treasury, undated. 1048 
+
 H. U. Addington,James Hamilton, August 19 1842
+
 James Hamilton,Senior Officer of British Navy, August 23 1842
+
 G. W. Terrell,Charles Elliot, Decembers 1842
+
 G. W. Terrell,Ashbel Smith, December 7 1842
+
 Charles Elliot,G. W. Terrell, December 13 1842
+
 Anson Jones,Sam Houston, December 24 1842
+
 Anson Jones,Charles Elliot, December 24 1842
+
 Ashbel Smith,Anson Jones, December 30 1842
+
 Lord Aberdeen,Ashbel Smith, November 8 1842
+
 Ashbel Smith,Lord Aberdeen, December 10 1842
+
 Ashbel Smith,Lord Aberdeen, December 12 1842
+
 . Ashbel Smith,Lachlin M. Rate, December 24 1842
+
 Charles Elliot,Anson Jones, January 17 1843
+
 Anson Jones,Ashbel Smith, January 18 1843
+
 Anson Jones,Ashbel Smith, January 19 1843
+
 Anson Jones,Ashbel Smith, January 23 1843
+
 Charles Elliot,Anson Jones, February 7 1843
+
 Sam Houston,Charles Elliot, May 6 1843
+
 Anson Jones,Ashbel Smith, May 8 1843
+
 Charles Elliot,Anson Jones, June 10 1843
+
 Percy W. Doyle,Charles Elliot, May 27 1843
+
 Anson Jones,Charles Elliot, June 15 1843
+
 Anson Jones,Ashbel Smith, June 15 1843
+
 Ashbel Smith,Wm. Henry Daingerfield, June 16 1843
+
 Ashbel Smith,Anson Jones, June 16 1843
+
 Charles Elliot,Anson Jones, June 18 1843
+
 Anson Jones,Charles Elliot, June 28 1843
+
 Ashbel Smith,Wm. Henry Daingerfield, June 28 1843
+
 Ashbel Smith,Anson Jones, July 2 1843
+
 Ashbel Smith,Isaac Van Zandt, January 25 1843
+
 Ashbel Smith,Isaac Van Zandt, January 25 1843
+
 Ashbel Smith,Anson Jones, July 3 1843
+
 Ashbel Smith,Wm. Henry Daingerfield, July 6 1843
+
 Ashbel Smith,Wm. Henry Daingerfield, July 11 1843
+
 Ashbel Smith,Wm. Henry Daingerfield, July 17 1843
+
 Aahbel Smith,Anson Jones, July 21 1843
+
 Charles Elliot,Anson Jones, July 24 1843
+
 Anson Jones,Charles Elliot, July 30 1843
+
 Ashbel Smith,Anson Jones, July 31 1843
+
 Charles Elliot,Anson Jones, August 17 1843
+
 Anson Jones,Ashbel Smith, August 20 1843
+
 Ashbel Smith,Anson Jones, August 22 1843
+
 Baron de Cetto,Ashbel Smith, August 15 1843
+
 Ashbel Smith,Baron de Cetto, August 21 1843
+
 Charles Elliot,Anson Jones, August 28 1843
+
 Anson Jones,Charles Elliot, September 4 1843
+
 Anson Jones,Charles Elliot, September 4 1843
+
 Charles Elliot,Anson Jones, September 15 1843
+
 Anson Jones,Charles Elliot, September 16 1843
+
 Anson Jones,Charles Elliot, September 19 1843
+
 Ashbel Smith,Anson Jones, September 20 1843
+
 Ashbel Smith,Lord Aberdeen, August 10 1843
+
 Charles Elliot,Anson Jones, September 28 1843
+
 Anson Jones,Ashbel Smith, September 30 1843
+
 Charles Elliot,Anson Jones, October 28 1843
+
 Charles Elliot,Anson Jones, November 15 1843
+
 Ashbel Smith,Anson Jones, November 29 1843
+
 Edwaid Everett,Ashbel Smith, October 24 1843
+
 Ashbel Smith,Edward Everett, October 31 1843
+
 Charles Elliot,Anson Jones, January 4 1844
+
 Anson Jones,Charles Elliot, February 16 1844
+
 Anson Jones,Charles Elliot, February 19 1844
+
 Charles Elliot,Anson Jones, March 22 1844
+
 Charles Elliot,Anson Jones, March 22 1844
+
 Ashbel Smith,Anson Jones, June 18 1844
+
 Ashbel Smith,Anson Jones, June 24 1844
+
 Anson Jones,Ashbel Smith, July 14 1844
+
 Ashbel Smith,Anson Jones, July 31 1844
+
 Holford &amp; Co. to Ashbel Smith, undated 1159 
+
 Holford &amp; Co. to Ashbel Smith, July 21 1842
+
 Anson Jones,Ashbel Smith, August 1 1844
+
 Ashbel Smith,Anson Jones, September 27 1844
+
 Ashbel Smith,Anson Jones, October 4 1844
+
 William Kennedy,Anson Jones, October 21 1844
+
 Anson Jones,G. W. Terrell, October 29 1844
+
 Anson Jones,William Kennedy, October 30 1844
+
 William Kennedy,Anson Jones, November 8 1844
+
 John Hall,William Kennedy, November 13 1844
+
 Ebenezer Allen,William Kennedy, December 23 1844
+
 G. W. Terrell,Ashbel Smith, January 21 1845
+
 G. W. Terrell,Wm. Henry Daingerfield, January 21 1845
+
 G. W. Terrell,Ashbel Smith, January 27 1845
+
 G. W. Terrell,Ashbel Smith, February 13 1845
+
 Charles Elliot,Ashbel Smith, February 27 1845
+
 G. W. Terrell,Wm. Henry Daingertield, March 22 1845
+
 G. W. Terrell,Ashbel Smith, May 3 1845
+
 G. W. Terrell,Lord Clarendon, May 5 1845
+
 G. W.Terrell,Ashbel Smith, May 9 1845
+
 Ebenezer Allen,Ashbel Smith, May 10 1845
+
 Ashbel Smith,Ebenezer Allen, May 17 1845
+
 Ashbel Smith,Secretary of State [Allen], June 3 1845
+
 Ebenezer Allen,Ashbel Smith, July 2 1845
+
 Ebenezer Allen,Charles Elliot, July 10 1845
+
 Charles Elliot,Ebenezer Allen, January 4 1846
+
 Lord Aberdeen,Charles Elliot, December 3 1845
+
 Ebenezer Allen,Charles Elliot, February 4 1846
+
 J. Pinckney Henderson,R. A. Irion, June 2 1838
+
 J. Pinckney Henderson,Count Mol^, April 28 1838
+
 J. Pinckney Henderson,Count Mol^, May 26 1838
+
 Count Mol6,J. Pinckney Henderson, May 29 1838
+
 J. Pinckney Henderson,Count Mol6, June 1 1838
+
 R. A. Irion,J. Pinckney Henderson, August 7 1838
+
 R. A. Irion,J. Pinckney Henderson, September 7 1838
+
 J. Pinckney Henderson,R. A. Irion, October 5; 1838 1220 
+
 J. Pinckney Henderson,Count Mol^, August 16 1838
+
 J. Pinckney Henderson,Count Mol6, September 26 1838
+
 Count Mol6,J. Pinckney Henderson, September 30 1838
+
 J. Pinckney Henderson,Count Mol^, October 1 1838
+
 J. Pinckney Henderson,Secretary of State [Irion], October 28 1838
+
 J. Pinckney Henderson,R. A. Irion, October 28 1838
+
 J. Pinckney Henderson,Mirabeau B. Lamar, October 28 1838
+
 J. Pickney Henderson,Secretary of State [Irion], November 12 1838
+
 Count Mol6,J. Pinckney Henderson, November 2 1838
+
 J. Pinckney Henderson,Count Mol6, November 7 1838
+
 J. Pinckney Henderson,Count Mol6, November 12 1838
+
 J. Pinckney Henderson,Secretary of State [Irion], November 23 1838
+
 J. Pinckney Henderson,Secretary of State [Bee], January 26 1839
+
 J. Pinckney Henderson,Mirabeau B. Lamar, February 26 1839
+
 J. Pinckney Henderson,Barnard E. Bee, February 27 1839
+
 J. Pinckney Henderson,Barnard E. Bee, March 10 1839
+
 Abb6 Anduz6,Mirabeau B. Lamar, April 18 1839
+
 James Webb,Abb6 Anduz6, April 25 1839
+
 James Webb,Admiral Baudin, April 25 1839
+
 J. Pinckney Henderson,James Webb, April 28 1839
+
 J. Pinckney Henderson,James Webb, April 28 1839
+
 J. Pinckney Henderson,James Webb, May 14 1839
+
 J. Pinckney Henderson,Secretary of State [Burnet], June 13 1839
+
 Hamilton and Burnley,Mirabeau B. Lamar, June 22 1839
+
 James Hamilton,David G. Burnet, June 22 1839
+
 J. Pinckney Henderson,Secretary of State, July 26 1839
+
 J. Pinckney Henderson,Secretary of State, July 26 1839
+
 J. Pinckney Henderson,Secretary of State [Burnet], August 5 1839
+
 Lewis Cass,J. Pinckney Henderson, August 3 1839
+
 David G. Burnet,James Hamilton, August 10 1839
+
 J. Pinckney Henderson,David G. Burnet, August 20 1839
+
 J. Pinckney Henderson,Secretary of State [Burnet], October 16 1839
+
 Abner S. Lipscomb,James Hamilton, February 24 1840
+
 A. de Saligny,Abner S. Lipscomb, March 6 1840
+
 James Hamilton,Mirabeau B. Lamar, March 24 1840
+
 A. T. Burnley,Mirabeau B. Lamar, January 30 1841
+
 James Hamilton,Abner S. Lipscomb, February 1 1841
+
 James Hamilton,M. Guizot, January 21 1841
+
 James Hamilton,Abner S. Lipscomb, February 7 1841
+
 James Hamilton,Henry Castro, February 11 1841
+
 A. de Saligny,Secretary of State [Mayfield], February 19 1841
+
 James S. Mayfield,A. de Saligny, February 20 1841
+
 A. de Saligny,James S. Mayfield, February 21 1841
+
 James S. Mayfield,A. de Saligny, February 22 1841
+
 Henry J. Jewett,James S. Mayfield, February 22 1841
+
 A. de Saligny,James S. Mayfield, February 23 1841
+
 James S. Mayfield,A. de Saligny, February 23 1841
+
 A. de Saligny,James S. Mayfield, February 24 1841
+
 James S. Mayfield,A. de Saligny, February 25 1841
+
 A. de Saligny,James S. Mayfield, February 28 1841
+
 James Hamilton,Abner S. Lipscomb, March 3 1841
+
 James S. Mayfield,A. de Saligny, March 15 1841
+
 A . de Saligny,James S. Mayfield , March 21  1841
+
 A. de Saligny,James S. Mayfield, March 25 1841
+
 James S. Mayfield,A. de Saligny, March 29 1841
+
 A. de Saligny,James S. Mayfield, March 31 1841
+
 James S. Mayfield,Thos. Gales Forster, April 3 1841
+
 James S. Mayfield,Wm. Henry Daingerfield, April 3 1841
+
 James S. Mayfield,A. de Saligny, April 5 1841
+
 James S. Mayfield,Geo. S. Mcintosh, April 8 1841
+
 James S. Mayfield,Henry J. Jewett, April 25 1841
+
 James S. Mayfield,Geo. S. Mcintosh, May 12 1841
+
 Wm. Sevey,James S. Mayfield, March 29 1841
+
 James H. Starr,Wm. Sevey, August 4 1840
+
 Thos. Gales Forster,James S. Mayfield, April 4 1841
+
 Henry J. Jewett,James S. Mayfield, February 24 1841
+
 Information given by Henry J. Jewett,A. Hutchinson, February 22, 
+
 James S. Mayfield,Henry J. Jewett, February 20 1841
+
 A. Hutchinson,James S. Mayfield, February 23 1841
+
 James Hamilton,Mirabeau B. Laniar, May 17 1841
+
 Nathaniel Amory,James Hamilton, May 15 1841
+
 Nathaniel Amory,Geo. S. Mcintosh, May 30 1841
+
 Nathaniel Amory,James Hamilton, May 30 1841
+
 James Hamilton,James S. Mayfield, July 16 1841
+
 James Hamilton,M. Guizot, July 12 1841
+
 James Hamilton,James S. Mayfield, July 22 1841
+
 James Hamilton,M. Guizot, July 21 1841
+
 Geo. S. Mcintosh,Secretary of State [Roberts], September 8 1841
+
 Geo. S. Mcintosh,M. Guizot, July 4 1841
+
 Geo. S. Mcintosh,M. Guizot, August 12 1841
+
 M. Guizot,Geo. S. Mcintosh, August 18 1841
+
 Geo. S. Mcintosh,M. Guizot, September 3 1841
+
 Samuel A. Roberts,Geo. S. Mcintosh, September 26 1841
+
 Geo. S. Mcintosh,James S. Mayfield, November 15 1841
+
 A. de Saligny,Anson Jones, January 16 1842
+
 Anson Jones,George S. Mcintosh, January 20 1842
+
 Anson Jones,Ashbel Smith, February 5 1842
+
 Anson Jones,A. de Saligny, March 2 1842
+
 Ashbel Smith,Anson Jones, March 15 1842
+
 Ashbel Smith,Anson Jones, March 16 1842
+
 A. de Saligny,Anson Jones, April 29 1842
+
 Alleye de Cyprey,A. de Saligny, December 30 1840
+
 A. Gloux,Alleye de Cyprey, December 19 1840
+
 Declaration of Wyse as,goods shipped on Santa Maria, October 28 1840
+
 Wm. Henry Daingerfield,Secretary of State [Jones], May 17 1842
+
 A. de Saligny,Sam Houston, June 6 1842
+
 Memorandum relative,Saligny 's investments in Texan bonds 1368 
+
 A. de Saligny,Anson Jones, June 7 1842
+
 Sam Houston,A. de Saligny, June 8 1842
+
 Anson Jones,A. de Saligny, June 8 1842
+
 A. de Saligny,Anson Jones, June 20 1842
+
 Ashbel Smith,Geo. S. Mcintosh, May 12 1842
+
 Ashbel Smith,Theodore Barbey, May 13 1842
+
 Geo. S. Mcintosh,Ashbel Smith, May 18 1842
+
 Henry Castro,Ashbel Smith, May 23 1842
+
 Ashbel Smith,Geo. S. Mcintosh, June 1 1842
+
 Henry Castro,Ashbel Smith, June 4 1842
+
 Henry Castro,Ashbel Smith, June 12 1842
+
 Henry Castro,Ashbel Smith, June 15 1842
+
 Theodore Barbey,Ashbel Smith, June 28 1842
+
 Henry Castro,Ashbel Smith, June 28 1842
+
 Geo. S. Mcintosh,Ashbel Smith, June 29 1842
+
 Ashbel Smith,Theodore Barbey, June 30 1842
+
 Sam Houston,Ashbel Smith, July 15 1842
+
 Ashbel Smith,Anson Jones, August 1 1842
+
 Ashbel Smith,Anson Jones, August 15 1842
+
 Ashbel Smith,Anson Jones, August 31 1842
+
 Ashbel Smith,M. Guizot, August 15 1842
+
 Ashbel Smith,Anson Jones, October 21 1842
+
 Ashbel Smith,Anson Jones, October 31 1842
+
 Aflbbel Smith,Anaon Jones, November 2 1842
+
 Ashbel Smith,Anson Jones, November 11 1842
+
 Ashbel Smith,Anson Jones, November 12 1842
+
 Ashbel Smith,Anson Jones, November 13 1842
+
 M. Guizot,Ashbel Smith, August 22 1842
+
 Ashbel Smith,M. Guisot, November 4 1842
+
 M. Guizot,Ashbel Smith, November 8 1842
+
 Ashbel Smith,M. Guizot, November 10 1842
+
 Ashbel Smith,Anson Jones, November 30 1842
+
 G. W. Terrell,Ashbel Smith, December 10 1842
+
 Anson Jones,Ashbel.Smith, December 23 1842
+
 Anson Jones,Ashbel Smith, December 26 1842
+
 Anson Jones,Al. Bourgeois, December 26 1842
+
 Ashbel Smith,Anson Jones, December 30 1842
+
 Ashbel Smith,Anson Jones, January 11 1843
+
 Viscount J. de Cramayel,Anson Jones, January 16 1843
+
 Ashbel Smith,Anson Jones, January 28 1843
+
 Viscount J. de Cramayel,Anson Jones, January 28 1843
+
 Anson Jones,Viscount J. de Cramayel, February 9 1843
+
 Anson Jones,Viscount J. de Cramayel, February 22 1843
+
 Secretary of State [Jones] to Ashbel Smith, February 26 1843
+
 Viscount J. de Cramayel,Anson Jones, March —  1843
+
 Ashbel Smith,Anson Jones, March 31 1843
+
 Ashbel Smith,Anson Jones, April 11 1843
+
 Ashbel Smith,M. Guizot, February 19 1843
+
 M. Guizot,Ashbel Smith, February 28 1843
+
 Ashbel Smith,M. Guizot, March 6 1843
+
 Ashbel Smith,M. Guizot, March 30 1843
+
 M. Guizot,Ashbel Smith, April 8 1843
+
 Ashbel Smith,M. Guizot, April [4] 1843
+
 Ashbel Smith,Anson Jones, April 15 1843
+
 Ashbel Smith,Anson Jones, April 27 1843
+
 M. Guizot,Ashbel Smithy undated i 1442 
+
 Ashbel Smith,M. Guizot, April 25 1843
+
 Henry Castro,Ashbel Smith, March 5 1843
+
 Ashbel Smith,Henry Castro, March 23 1843
+
 Sam Houston,Viscount J. de Cramayel, May 6 1843
+
 Anson Jones,Viscount J. de Cramayel, May 17 1843
+
 Viscount J. de Cramayel,Anson Jones, June 10 1843
+
 Wm. Henry Daingerfield,Ashbel Smith, June 12 1843
+
 Anson Jones,Viscoimt J. de Cramayel, June 15 1843
+
 Ashbel Smith,Anson Jones, June 16 1843
+
 M. Guizot,Ashbel Smith, April 28 1843
+
 M. Guizot,Ashbel Smith, May 8 1843
+
 Wm. Henry Daingerfield,Ashbel Smith, June 17 1843
+
 Anson Jones,Ashbel Smith, June 21 1843
+
 James Hamilton,Anson Jones, June 27 1843
+
 A. Somervell,M. C. Hamilton, June 27 1843
+
 Wm. Henry Daingerfield,Anson Jones, June 28 1843
+
 Viscount J. de Cramayel,Anson Jones, July 20 1843
+
 Wm. Henry Daingerfield,Secretary of State Jones, July 31 1843
+
 Ashbel Smith,Anson Jones, August 15 1843
+
 Ashbel Smith,M. Guizot, August 23 1843
+
 Asbbel Smith,Anson Jones, September 19 1843
+
 Viscount J. de Cramayel,Anson Jones, September 30 1843
+
 Sam Houston,Anson Jones, October 6 1843
+
 Ashbel Smith,Anson Jones, October 14 1843
+
 Al. Bourgeois,Ashbel Smith, October 8 1843
+
 Charles de Castell,Al. Bourgeois, September 26 1843
+
 Ashbel Smith,Al. Bourgeois, October 3 1843
+
 Anson Jones,Viscount J. de Cramayel, October 20 1843
+
 Ashbel Smith,Anson Jones, October 30 1843
+
 Wm. Henry Daingerfield,Ashbel Smith, November 8 1843
+
 Ashbel Smith,Anson Jones, December 30 1843
+
 Ashbel Smith,Anson Jones, January 29 1844
+
 Ashbel Smith,Anson Jones, February 26 1844
+
 •Anson Jones,Ashbel Smith, March 26 1844
+
 Ashbel Smith,Anson Jones, May 6 1844
+
 Ashbel Smith,Anson Jones, June 2 1844
+
 Ashbel Smith,Anson Jones, August 13 1844
+
 Ashbel Smith,Anson Jones, October 16 1844
+
 Ashbel Smith,Anson Jones, November 13 1844
+
 M. Guizot,Anson Jones, December 4 1844
+
 A. de Saligny,Ashbel Smith, March 4 1845
+
 Ashbel Smith,A. de Saligny, March 13 1845
+
 G. W. Terrell,Ashbel Smith, March 18 1845
+
 Terrell's address,the King of France, undated 1496 
+
 Reply of the King of France,Terrell's address, undated 1497 
+
 G . W. TerreU,M. Guizot, March 15 1845
+
 Ashbel Smith,A. de Saligny, March 21 1845
+
 A. de Saligny,Ebenezer Allen, January 14 1846
+
 Ebenezer Allen,A. de Saligny, February 10 1846
+
 Ashbel Smith,Washington Irving, September 7 1842
+
 Ashbel Smith,Anson Jones, September 8 1842
+
 Ashbel Smith,General Sancho, September 7 1842
+
 Anson Jones,Ashbel Smith, February 16 1843
+
 Ashbel Smith,Martinez de La Rosa, February 1844
+
 Wm. Henry Daingerfield,Lachlin M. Rate, January 26 1845
+
 Wm. Hienry Daingerfield,Baron Roenne, January 27 1845
+
 Wm. Henry Daingerfield,G. W. Terrell, February 5 1845
+
 James Hamilton,Abner S. Lipscomb, September 10 1840
+
 James Hamilton,Abner S. Lipscomb, January 4 1841
+
 James Hamilton,Secretary of State [Roberts], November 3 1841
+
 Anson Jones,Victor Pirson, March 4 1842
+
 Wm. Henry Daingerfield,Anson Jones, May 16 1843
+
 Wm. Henry Daingerfield,Count d' Alviella, December 14 1843
+
 James Hamilton,Abner S. Lipscomb, July 3 1840
+
 Abner S. Lipscomb,James Hamilton, September 15 1840
+
 James Hamilton,Abner S. Lipscomb, October 3 1840
+
 Anson Jones,Wm. Henry Daingerfield, March 26 1842
+
 Anson Jones,James Hamilton, June 4 1842
+
 Anson Jones,Wm. Henry Daingerfield, January 20 1843
+
 Wm. Henry Daingerfield,Anson Jones, November 12 1843
+
 Henry Castro,Anson Jones, October 25 1843
+
 Anson Jones,Wm. Henry Daingerfield, July 14 1844
+
 Wm. Henry Daingerfield,Lachlin M. Rate, December 12 1844
+
 Wm. Henry Daingerfield,Anson Jones, February 3 1843
+
 Anson Jones,Wm. Henry Daingerfield, February 20 1843
+
 Wm. Henry Daingerfield,Anson Jones, September 25 1843
+
 Wm. Henry Daingerfield,V. Rumpff, January 5 1844
+
 Wm. Henry Daingerfield,Ashbel Smith, February 14 1844
+
 Wm. Henry Daingerfield,V. Rumpff, March 17 1844
+
 Wm. Henry Daingerfield,V. Rumpff, March 27 1844
+
 Wm. Henry Daingerfield,Anson Jones, April 20 1844
+
 Wm. Henry Daingerfield,Anson Jones, April 22 1844
+
 Wm. Henry Daingerfield,Anson Jones, July 28 1844
+
 Wm. Henry Daingerfield,Senator Gildmeister, December 21 1844
+
 R. Sieveking,Wm. Henry Daingerfield, January 13 1845
+
 Wm. Henry Daingerfield,G. W. Terrell, January 14 1845
+
 Ashbel Smith,Wm. Henry Daingerfield, February 13 1845
+
 Wm. Henry Daingerfield,Ebenezer Allen, July 1 1845
+
 Wm. Henry Daingerfield,Ashbel Smith, July 1 1845
+
 Wm. Henry Daingerfield,R. Sieveking, October 1 1845
+
 Wm. Henry Daingerfield,Ebenezer Allen, February 2 1846
