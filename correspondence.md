@@ -1,582 +1,1154 @@
 Sender, Receiver, Date 
 
-  Sam Houston, J. Pinckney Henderson, December 31 1836
+Sam Houston, J. Pinckney Henderson, December 31 1836
 
 James Webb, Alc6e La Branche, May 27 1839
 
 David G. Burnet, Richard G. Dunlap, June 3 1839
 
 Nathaniel Amory,Richard G. Dunlap, July 24 1839
+
 David G. Burnet,Richard G. Dunlap, August 19 1839
+
 T. Dunlap,Richard G. Dunlap, September 28 1839
+
 Nathaniel Amory,Richard G. Dunlap, October 25 1839
+
 John Emberson,Albert Sidney Johnston, September 2 1839
+
 David G. Burnet,Alc6e La Branche, November 29 1839
+
 David G. Burnet,Alc6e La Branche, December 3 1839
+
 David G. Burnet,Alc^ La Branche, December 7 1839
+
 William Scurlock,David G. Burnet, November 30 1839
+
 William M. Williams,David G. Burnet, November 30 1839
+
 D. Rowlett,David G. Bumet, undated 61 
+
 David G. Bumet,Alc6e La Branche, December 16 1839
+
 David G. Bumet,Alc^ La Branche, December 17 1839
+
 David G. Bumet,Alc^e La Branche, December 20 1839
+
 D. Rowlett,David G. Bumet, January 5 1840
+
 David G. Bumet,Richard G. Dunlap, January 20 1840
+
 Abner S. Lipscomb,Alc^ La Branche, April 1 1840
+
 Abner S. Lipscomb,James Hamilton and A. T. Bumley, AugUHt 15, 
+
 Joseph Waplee,Barnard E. Bee, September 19 1840 
+
 Abner S. Lipscomb,Geo. H. Flood, December 13 1840
+
 Joseph Waplee,Nathaniel Amory, January 5 1841
+
 Joseph Waples,Geo. H. Flood, January 28 1841
+
 Joseph Waplee,Geo. H. Flood, February 2 1841
+
 Joseph Waples,Geo. H. Flood, February 3 1841
+
 James S. Mayfield,Geo. H. Flood, February 12 1841
+
 James S. Mayfield,Barnard E. Bee, February 17 1841
+
 James S. Mayfield,Barnard E. Bee, March 22 1841
+
 Geo. H. Flood,Jamee S. Mayfield, March 25 1841
+
 James S. Mayfield,Geo. H. Flood, March 29 1841
+
 Geo. H. Flood,James S. Mayfield, March 31 1841
+
 James S. Mayfield,Barnard E. Bee, April 20 1841
+
 James S. Mayfield,Nathaniel Amory, April 24 1841
+
 Samuel A. Roberta,Barnard E. Bee, June 21 1841
+
 Samuel A. Roberts,Barnard E. Bee, July 8 1841
+
 Samuel A. Roberta,Joseph Eve, August 11 1841
+
 Samuel A. Roberta,Joseph Eve, August 17 1841
+
 Samuel A. Roberts,Barnard E. Bee, September 7 1841
+
 Sam Houston,Joseph Eve, July 30 1842
+
 Sam Houston,A. B. Roman, September 12 1842
+
 Sam Houston,A. B. Roman, October 29 1842
+
 Isaac Van Zandt,Anson Jones, January 11 1843
+
 Joseph Eve,Anson Jones, January 11 1843
+
 Isaac Van Zandt,Anson Jones, January 20 1843
+
 J. C. Spencer,Isaac Van Zandt, January 17 1843
+
 T. Hartley Crawford,Wm. Armstrong, January 12 1843
+
 R. Jones,W. Davenport and G. Loomis, January 13 1843
+
 Isaac Van Zandt,Anson Jones, January 25 1843
+
 Joseph Eve,Anson Jones, January 26 1843
+
 M. E. Hale,Joseph Eve, December 27 1842
+
 Anson Jones,Isaac Van Zandt, January 31 1843
+
 Anson Jones,Joseph Eve, February 5 1843
+
 Anson Jones,Isaac Van Zandt, February 10 1843
+
 Wm. Henry Daingerfield,Anson Jones, February 14 1843
+
 Anson Jones,Isaac Van Zandt, February 16 1843
+
 Sam Houston,Joseph Eve, February 17 1843
+
 Joseph Eve,Joseph Waples, February 27 1843
+
 Copy and sunmiary of instructions United States Department of State to 
+
 Joseph Eve as charg^ to Texaa, June 15 1841
+
 Wm. Henry Daingerfield,Anson Jones, March 10 1843
+
 Joseph Eve,Anson Jones, March 13 1843
+
 Isaac Van Zandt,Anson Jones, March 13 1843
+
 ' Daniel Webster,Isaac Van Zandt, March 11 1843
+
 Isaac Van Zandt,William S. Archer, January 10 1843
+
 Isaac Van Zandt,Anson Jones, April 5 1843
+
 Isaac Van Zandt,Daniel Webster, March 23 1843
+
 Joseph Eve,Anson Jones, April 13 1843
+
 Isaac Van Zandt,Anson Jones, April 19 1843
+
 Isaac Van Zandt,Anson Jones, April 21 1843
+
 Anson Jones,Joseph Eve, April 22 1843
+
 Joseph Eve,Anson Jones, April 28 1843
+
 ReubenM. Potter,A. M. Green, March 10 1843
+
 A. M. Green,Joseph Eve, March 17 1843
+
 Isaac Van Zandt,Anson Jones, May 3 1843
+
 Sam Houston,Joseph Eve, May 6 1843
+
 Anson Jones,Isaac Van Zandt, May 8 1843
+
 Anson Jones,Isaac Van Zandt, May 9 1843
+
 Joseph W. Robertson,Anson Jones, April 20 1843
+
 Chas. H. Raymond,Anson Jones, May 12 1843
+
 Anson Jones,Joseph Eve, May 16 1843
+
 Anson Jones,Joseph Eve, May 17 1843
+
 Anson Jones,Isaac Van Zandt, June 1 1843
+
 Jesse Benton,Anson Jones, May 1 1843
+
 Isaac Van Zandt,Anson Jones, June 5 1843
+
 Petition of Joseph Cooper,the Texan minister 187 
+
 Anson Jones,Isaac Van Zandt, June 8 1843
+
 Joseph Eve,President of Texas [Houston], June 10 1843
+
 Anson Jonee,Isaac Van Zandt, June 15 1843
+
 Isaac Van Zandt,Anson Jones, June 29 1843
+
 Anson Jones,Isaac Van Zandt, July 6 1843
+
 Anson Jones,Isaac Van Zandt, July 7 1843
+
 Isaac Van Zandt,Anson Jones, August 10 1843
+
 Isaac Van Zandt,Anson Jones, August 15 1843
+
 J. M. Porter,H. S. Legar^, May 11 1843
+
 William Armstrong,T. H. Crawford, April 10 1843
+
 William Armstrong,T. H. Crawford 203 
+
 Chas. H. Raymond,Anson Jones, August 20 1843
+
 Isaac Van Zandt,Anson Jones, August 31 1843
+
 Isaac Van Zandt,Anson Jones, September 18 1843
+
 Isaac Van Zandt,Anson Jones, September 18 1843
+
 Anson Jones,Isaac Van Zandt, September 29 1843
+
 M. C. Hamilton,Jacob Snively, February 16 1843
+
 Jacob Snively,Geo. W. HUl, July 9 1843
+
 Isaac Van Zandt,Anson Jones, October 16 1843
+
 Isaac Van Zandt,Anson Jones, November 4 1843
+
 Isaac Van Zandt,Anson Jones, November 30 1843
+
 W. S. Murphy,Anson Jones, December 1 1843
+
 Anson Jones,Isaac Van Zandt, December 13 1843
+
 W. S. Murphy,Anson Jones, December 24 1843
+
 Isaac Van Zandt,Anson Jones, January 2 1844
+
 Isaac Van Zandt,Anson Jones, January 20 1844
+
 A. P. Upshur,Isaac Van Zandt, January 16 1844
+
 Anson Jonee,Isaac Van Zandt, January 27 1844
+
 Anson Jones,J. Pinckney Henderson, February 15 1844
+
 Anson Jones,W. S. Murphy, February 16 1844
+
 Isaac Van Zandt,Anson Jones, February 22 1844
+
 J. H. Brewer,Isaac Van Zandt, January 31 1844
+
 Isaac Van Zandt,A. P. Upshur, February 21 1844
+
 Anson Jones,Isaac Van 2iandt, February 24 1844
+
 Anson Jones,Henderson and Van Zandt, February 25 1844
+
 Isaac Van Zandt,Anson Jones, March 5 1844
+
 Isaac Van Zandt,Anson Jones, March 20 1844
+
 Isaac Van Zandt,Anson Jones, March 22 1844
+
 Isaac Van Zandt,Anson Jones, March 25 1844
+
 Anson Jones,Isaac Van Zandt, March 26 1844
+
 Anson Jones,Isaac Van Zandt, April 6 1844
+
 Anson Jones,Isaac Van Zandt, April 12 1844
+
 Van Zandt and Henderson,Anson Jones, April 12 1844
+
 Sam Houston,Henderson and Van Zandt, April 16 1844
+
 Sam Houston,Van Zandt and Henderson, April 29 1844
+
 Anson Jones,Van Zandt and Henderson, May 2 1844
+
 Sam Houston,Van Zandt and Henderson, May 10 1844
+
 Isaac Van Zandt,Anson Jones, May 11 1844
+
 Sam Houaton,Van Zandt and Henderson, May 17 1844
+
 Van Zandt and Henderson,Anson Jones, May 25 1844
+
 Van Zandt and Henderson,Anson Jones, June 10 1844
+
 Isaac Van Zandt,Anson Jones, June 13 1844
+
 Van Zandt and Henderson,Anson Jones, June 15 1844
+
 Isaac Van Zandt,Anson Jones, June 18 1844
+
 Isaac Van Zandt,Anson Jones, July 6 1844
+
 Anson Jones,Isaac Van Zandt, July 13 1844
+
 A. M. Green,Anson Jones, July 14 1844
+
 Anson Jones,A. M. Green, July 22 1844
+
 Anson Jones,Charles H. Raymond, July 29 1844
+
 Address of Tilghman A. Howard,Anson Jones, between August 2 and 6, 
+
 Anson Jones's reply,Howard *s address 294 
+
 Anson Jones,Charles H. Raymond, August 6 1844
+
 Isaac Van Zandt,Anson Jones, August 8 1844
+
 J. H. Brower,Isaac Van Zandt, July 27 1844
+
 Isaac Van Zandt,Anson Jones, August 16 1844
+
 Wm. Wilkins,John C. Calhoun, April 24 1844
+
 D. Parker,John C. Calhoun, June 27 1844
+
 R. Jones,the Secretary of War [of the United States], June 27 1844
+
 R. Jones,Zachary Taylor, March 11 1844
+
 Zachary Taylor,AdjutantrGeneral [R. Jones], April 2 1844
+
 G. Loomis,W. W. S. Bliss, April 20 1843
+
 Isaac Van Zandt,Anson Jones, August 19 1844
+
 J. H. Brower,Isaac Van Zandt, August 16 1844
+
 Isaac Van Zandt,Anson Jones, September 11 1844
+
 Charles H. Raymond,Anson Jones, September 12 1844
+
 Charles H. Raymond,Anson Jones, September 19 1844
+
 Charles H. Raymond,Anson Jones, October 1 1844
+
 Anson Jones,James Reily, October 16 1844
+
 Anson Jones,Charles H. Raymond, October 24 1844
+
 Charles H. Raymond,Anson Jones, November 27 1844
+
 A. J. Donelson,Anson Jones, December 2 1844
+
 M.S. CucuUu,John C. Spencer, April 26 1844
+
 Balie Peyton,M. S. CucuUu, April 26 1844
+
 Eddy and Moss,the collector of the customs at New Orleans, April 23, 
+
 Charles H. Raymond,the Secretary of State of Texas [Jones], December 
+
 John C. Calhoun,Charles H. Raymond, December 2 1844
+
 Charles H. Raymond,John C. Calhoun, December 2 1844
+
 A. J. Donelson,Anson Jones, December 6 1844
+
 Anson Jones,A. J. Donelson, December 7 1844
+
 A. J. Donelson,Secretary of State [Allen,. arf interim], December 10 1844
+
 Ebenezer Allen,A. J. Donelson, December 11 1844
+
 A. J. Donelson,Ebenezer Allen, December 13 1844
+
 Charles H. Raymond,the Secretary of State of Texas [Allen], 
+
 John C. Calhoun,Charles H. Raymond, December 23 1844
+
 Charlee H. Raymond,John C. Calhoun, December 27 1844
+
 Ebenezer Allen,A. J. Donelson, January 4 1845
+
 Charles H. Raymond,Ebenezer Allen, January 4 1845
+
 A.J. Donelson,Ebenezer Allen, January 6 1845
+
 Ebenezer Allen,Charles H. Raymond, January 10 1845
+
 Charles H. Raymond,Ebenezer Allen, January 11 1845
+
 Ebenezer Allen,Charles H. Raymond, January 16 1845
+
 Charles H. Raymond,Ebenezer Allen, January 16 1845
+
 Ebenezer Allen,Charles H. Raymond, January 20 1845
+
 A. J. Donelson,Ebenezer Allen, January 20 1845
+
 Duff Green,A. J. Donelson, January 20 1845
+
 Williams, Thurston, and Meggerson,Duff Green, January 1 1845
+
 A. J. Donelson,Ebenezer Allen, January 21 1845
+
 Ebenezer Allen,A. J. Donelson, January 21 1845
+
 Charles H. Raymond,Ebenezer Allen, January 27 1845
+
 John C. Calhoun,Charles H. Raymond, January 22 1845
+
 Charles H. Raymond,Ebenezer Allen, February 6 1845
+
 Charles H. Raymond,John C. Calhoun, February 6 1845
+
 Ashbel Smith,A. J. Donelson, February 10 1845
+
 Ashbel Smith,Charles H. Raymond, February 11 1845
+
 Charles H. Raymond,Ebenezer Allen, February 18 1845
+
 Charles H. Raymond,John C. Calhoun, February 10 1845
+
 Charles H. Raymond,John C. Calhoun, February 11 1845
+
 Charles H. Raymond,Ebenezer Allen, February 21 1845
+
 Charles H. Raymond,Ebenezer Allen, February 28 1845
+
 Ashbel Smith,Charles H. Raymond, March 21  1845
+
 Ashbel Smith,Stewart Newell, March 24 1845
+
 Charles H. Raymond,Ashbel Smith, March 31 1845
+
 A. J. Donelson,Ebenezer Allen, April 7 1845
+
 Charles H. Raymond,Ebenezer Allen, April 30 1845
+
 Charles H. Raymond,Ebenezer Allen, May 19 1845
+
 Ebenezer Allen,David S. Kaufman, July 10 1845
+
 Ebenezer Allen,David S. Kaufman, July 10 1845
+
 Anson Jones,James K. Polk, July 12 1845
+
 Ebenezer Allen,William D. Lee, August 2 1845
+
 T. Hartley Crawford,Andrew J. Donelson, July 29 1845
+
 E. A. Rhodes,Ebenezer Allen, August 21 1845
+
 J. Y. Mason,E. A. Rhodes, August 7 1845
+
 E. A. Rhodes,Ebenezer Allen, August 21 1845
+
 Anson Jones,Zachary Taylor, August 23 1845
+
 Ebenezer Allen,E. A. Rhodes, August 30 1845
+
 William D. Lee,Ebenezer Allen, September 8 1845
+
 James Buchanan,William D. Lee, September 6 1845
+
 William D. Lee,James Buchanan, September 8 1845
+
 David S. Kaufman,Ebenezer Allen, September 30 1845
+
 David S. Kaufman,James Buchanan, September 23 1845
+
 WilliamD. Lee,Ebenezer Allen, October 8 1845
+
 Ebenezer Allen,David S. Kaufman, October 15 1815
+
 William D. Lee,Ebenezer Allen, October 21 1845
+
 W. L. Marcy,David S. Kaufman, October 10 1845
+
 David S. Kaufman,Ebenezer Allen, November 3 1845
+
 William D. Lee,Ebenezer Allen, November 8 1845
+
 William D. Lee,James Buchanan, November 6 1845
+
 Anson Jones,James K. Polk, November 12 1845
+
 Joseph C. Eldredge,E. A. Rhodes, November 29 1845
+
 Anson Jones,James K. Polk, February 16 1846
+
 R. J. Walker,Hiram G. Runnels, March 25 1846
+
 David G. Burnet,Anto. Lopez de Santa Anna, May 17 1836
+
 David G. Burnet,Anto. Lopez de Santa Anna, May 19 1836
+
 David G. Burnet,Anto. Lopez de Santa Anna, May 20 1836
+
 David G. Burnet,Anto. Lopez de Santa Anna, May 20 1836
+
 Anto. Lopez de Santa Anna,David G. Burnet, June 4 1836
+
 Anto. Lopez de Santa Anna,David G. Burnet, June 8 1836
+
 Anto. Lopez de Santa Anna,David G. Burnet, June 8 1836
+
 Anto. Lopez de Santa Anna,Sam Houston, October 24 1836
+
 Stephen F. Austin,Fran. Pizarro Martinez, November 30 1836
+
 Geo. W. Hockley,Sam Houston, December 13 1836
+
 Geo. W. Hockley,Sam Houston, December 13 1836
+
 Barnard E. Bee,Sam Houston, December 14 1836
+
 Fran. Pizarro Martinez,Stephen F. Austin, December 29 1836
+
 A. J. Yates,Stephen F. Austin, January 4 1837
+
 Correspondent in Tampico,T. Toby, January 7 1837
+
 Correspondent in Tampico,T. Toby, January 26 1837
+
 Antonio Canales,Mirabeau B. Lamar, December 17 1838
+
 James Webb,Barnard E. Bee, February 20 1839
+
 Barnard E. Bee,James Webb, undated 437 
+
 James Webb,Barnard E. Bee, March 7 1839
+
 Barnard E. Bee,James Webb, April 1 1839
+
 Barnard E. Bee,James Webb, April 6 1839
+
 Barnard E. Bee,James Webb [April 7 1839
+
 Barnard E. Bee,James Webb, iindated 440 
+
 Barnard E. Bee,James Webb, April 18 1839
+
 Barnard E. Bee,James Webb, April 30 1839
+
 Barnard E. Bee,James Webb, May 1 1839
+
 Barnard E. Bee,James Webb, May 9 1839
+
 Barnard E. Bee,James Webb, May 13 1839
+
 Geo. L. Hammeken,James Hamilton, May 19 1839
+
 Geo. L. Hanmieken,James Webb, May 20 1839
+
 Barnard E. Bee,James Webb, May 24 1839
+
 Barnard E. Bee,James Webb, May 28 1839
+
 James Hamilton,Mirabeau B. Lamar, June 22 1839
+
 J. R. Poinsett,James Hamilton, May 31 1839
+
 James Hamilton,Mirabeau B. Lamar, June 28 1839
+
 James Hamilton,R. Copeland, June 29 1839
+
 Barnard E. Bee,James Webb, June 1839
+
 Barnard E. Bee,James Webb, July 5 1839
+
 Barnard E. Bee,James Webb, July 6 1839
+
 James Hamilton,Mirabeau B. Lamar, July 8 1839
+
 Barnard E. Bee,James Webb, July 9 1839
+
 Barnard E. Bee,James Webb, undated 462 
+
 Barnard E. Bee,James Webb, July 1839
+
 James Webb,Barnard E. Bee, July 11 1839
+
 Barnard E. Bee,James Webb, July 24 1839
+
 BaniaxdE. Bee,James Webb, July 26 1839
+
 Barnard E. Bee to [Lamar], July [?] 3839 467 
+
 James Hamilton,Mirabeau B. Lamar, August 1 1839
+
 Mirabeau B. Lamar,James Treat, August 9 1839
+
 David G. Burnet,James Treat, August 9 1839
+
 Barnard E. Bee,David G. Burnet, August 13 1839
+
 Jacob Barker,Barnard E. Bee, August 32 1839
+
 James Treat,David G. Burnet, August 33 3839
+
 DaAdd G. Burnet,James Treat, August 19 1839
+
 James Treat,Mirabeau B. I^mar, September 3 1839
+
 James Treat,David G. Burnet, September 3 1839
+
 James Treat,David G. Burnet, September 10 1839
+
 James Treat,David G. Burnet, September 18 1839
+
 James Treat,Mirabeau B. I^mar, September 18 1839
+
 A Friend of Treat in Mexico,a Friend of Treat in New Orleans [Vitalba], 
+
 A Friend of Treat in New Orleans [Vitalba] to James Treat, September 
+
 James Treat,David G. Biumet, September 21 1839
+
 James Treat,David G. Burnet, Octobers 1839
+
 James Treat,David G. Burnet, October 10 1839
+
 James Treat,David G. Burnet, October 23 1839
+
 A. S. Wright,Wm. Bryan, November 21 1839
+
 James Treat,David G. Burnet, November 28 1839
+
 James Treat,David G. Burnet, November 29. 1839 501 
+
 A. S. Wright,William Bryan,* December 7 1839
+
 Juan de Dios Cafiedo,R. Pakenham, December 11 1839
+
 James Treat,Mirabeau B. Lamar, December 12 1839
+
 James Treat,Mirabeau B. Lamar, December 12 1839
+
 James Treat,James Hamilton, December 16 1839
+
 James Treat,Mirabeau B. Lamar, December 20 1839
+
 David G. Burnet,James Hamilton, December 23 1839
+
 A. S. Wright,Wm. Bryan, December 25 1839
+
 A. S. Wright,John Merle, December25 1839
+
 A. S. Wright,Wm. Bryan, December 27 1839
+
 James Treat,Mirabeau B. Lamar, December 31 1839
+
 James Hamilton,David G. Burnet, January 7 1840
+
 James Treat,Mirabeau B. Lamar, January 7 1840
+
 James Treat,Mirabeau B. Lamar, January 18 1840
+
 James Treat,Mirabeau B. Lamar, January 22 1840
+
 James Treat,Mirabeau B. Lamar, January 31 1840
+
 James Treat,Mirabeau B. Lamar, February 1 1840
+
 James Treat,Mirabeau B. Lamar, February 4 1840
+
 Abner S. Lipscomb,Barnard E. Bee, February 6 1840
+
 James Treat,Mirabeau B. Lamar, February 6 1840
+
 James Treat,Mirabeau B. Lamar, February 7 1840
+
 James Treat,Juan de Dios CaAedo, January 24 1840
+
 James Treat,Juan de Dios Cafiedo, January 24 1840
+
 James Treat,Juan de Dios Cafiedo, February 7 1840
+
 James Treat,Mirabeau B. Lamar, February 8/ 1840 559 
+
 James Treat,Mirabeau B. Lamar, February 8 1840
+
 James Treat,Mirabeau B. Lamar, February 15 1840
+
 James Treat,Mirabeau B. Lamar, February 21 1840
+
 James Treat,Juan de Dios Cafiedo, January 24 1840
+
 James Treat,Juan Nepomuceno Almonte, January 24 1840
+
 James Treat,Juan de Dies Cafiedo, February 4 1840
+
 James Treat,Juan de Dies Cafiedo, February 10 1840
+
 James Treat,Juan de Dios Cafiedo, February 12 1840
+
 James Treat,Mirabeau B. Lamar, February 22 1840
+
 James Treat,Mirabeau B. Lamar, February 29 1840
+
 David G. Burnet,James Treat, March 12 1840
+
 David G. Burnet,R. Pakenham, March 12 1840
+
 David G. Burnet,R. Pakenham, March 12 1840
+
 James Treat,Mirabeau B. Lamar, March 25 1840
+
 James Treat,Mirabeau B. Lamar, March 27 1840
+
 Propositions of Texas,Mexico, March 21 1840
+
 James Treat,Mirabeau B. I^amar, March 31 1840
+
 Abner S. Lipscomb,James Treat, April 1 1840
+
 Abner S. Lipscomb,Hamilton and Burnley, April 1 1840
+
 James Treat,Secretary of State [Lipscomb], April 10 1840
+
 Jas. Ogilvy,R. Pakenham, August 20 1839
+
 Jas. Ogilvy,R. Pakenham, August 20 1839
+
 James Treat,Mirabeau B. Lamar, April 10 1840
+
 James Treat,Mirabeau B. Lamar, April 10 1840
+
 Correspondent at Vera Cruz,David G. Burnet, April 16 1840
+
 James Treat,Mirabeau B. Lamar, April 21 1840
+
 James Treat,Juan de Dios Cafiedo, April 20 1840
+
 A. S. Wright,Barnard E. Bee, Februarys 1840
+
 Barnard E. Bee,Secretary of State [Lipscomb], April 21 1840
+
 James Treat,Mirabeau B. Lamar, April 24 1840
+
 R. Pakenham,David G. Burnet, April 25 1840
+
 James Treat,Mirabeau B. Lamar, April 30 1840
+
 A. S. Wright,Barnard E. Bee, August 29 1839
+
 A. S. Wright,Barnard E. Bee, November 10 1839
+
 A. S. Wright,Barnard E. Bee, November —  1839
+
 A. S. Wright,Barnard E. Bee, November 18 1839
+
 Barnard E. Bee,Secretary of State [Lipscomb], April 30 1840
+
 Abner S. Lipscomb,James Hamilton, May 4 1840
+
 Abner S. Lipscomb,James Treat, May 7 1840
+
 James Treat,Mirabeau B. Lamar, May 7 1840
+
+
 James Treat,Mirabeau B. Lamar, May 28 1840
+
 James Treat,James Ritchie, June 3 1840
+
 James Treat,Mirabeau B. Lamar, June 3 1840
+
 James Treat,Mirabeau B. Lamar, June 6 1840
+
 Abner S. Lipscomb,James Treat, June 13 1840
+
 James Treat,Mirabeau B. Lamar, June 14 1840
+
 James Treat,Abner S. Lipscomb, June 19 1840
+
 Mirabeau B. Lamar,E. W. Moore, June 20 1840
+
 A. S. Wright,Barnard E. Bee, June 25 1840
+
 A. S. Wright,Barnard E. Bee, July 1 1840
+
 James Treat,Abner S. Lipscomb, July 4 1840
+
 James Treat,Mirabeau B. Lamar, July 4 1840
+
 James Treat,Juan de Dios Cafiedo, June 20 1840
+
 Barnard E. Bee,James Treat, April 28, 1»40 665 
+
 James Treat,Abner S. Lipscomb, July 13 1840
+
 James Treat,Mirabeau B. Lamar, July 13 1840
+
 James Treat,Mirabeau B. Lamar, July 23 1840
+
 James Treat,Abner S. Lipscomb, August 11 1840
+
 James Treat,Mirabeau B. Lamar, August 11 1840
+
 A. S. Wright,Barnard E. Bee, July 27 1840
+
 A. S. Wright,Barnard E. Bee, August 18 1840
+
 James Treat,Mirabeau B. Lamar, August 21 1840
+
 James Treat,Abner S. Lipscomb, August 21 1840
+
 James Treat,E. W. Moore, August 21 1840
+
 E. W. Moore,James Treat, August 25 1840
+
 E. W. Moore,Muabeau B. Lamar, August 28, 184Q 695 
+
 E. W. Moore,Abner S. Lipscomb, August 28 1840
+
 James Treat,Abner S. Lipscomb, September 7 1840
+
 Memorandum communicated by Treat,Mexican Government, Septem- 
+
 Abner S. Lipscomb,James Treat, September 15 1840
+
 James Treat,Abner S. Lipscomb, September 29 1840
+
 Agent of Texas [Treat] to Secretary of State of Mexico [Cafledo], Septem- 
+
 James Treat,Abner S. Lipscomb, October 6 1840
+
 James Treat,Abner S. Lipscomb, October 17 1840
+
 James Treat,Abner S. Lipscomb, October 25 1840
+
 E. W. Moore,James Treat, October 29 1840
+
 E. W. Moore,Joaquin Rivas Sayas, October 16 1840
+
 Joaquin Rivas Sayas,E. W. Moore, October 17 1840
+
 Nathaniel Amory,Abner S. Lipscomb, November 27 1840
+
 Juan N. Leplicher,Nathaniel Amory, October 17 1840
+
 A. S. Wright,Nathaniel Amory, October 17 1840
+
 Juan Vitalba,Mirabeau B. Lamar, December 8 1840
+
 James Treat,R. Pakenham, October 10 1840
+
 James Treat,R. Pakenham, October 14 1840
+
 James Treat,R. Pakenham, October 14 1840
+
 R. Pakenham,James Treat, September 29 1840
+
 Juan de Dies Cafiedo,R. Pakenham, September 26,^.840 725 
+
 R. Pakenham,James Treat, October 14 1840
+
 R. Pakenham,James Treat, October 15 1840
+
 R. Pakenham,James Treat, October 21, U540 727 
+
 R. Pakenham,James Treat, November 5 1840
+
 James Treat,E. W. Moore, October 6 1840
+
 James Treat,E. W. Moore, September 30 1840
+
 A. S. Wright,Mirabeau B. Lamar, March 18 1841
+
 James S. May field,James Webb, March 22 1841
+
 Samuel A. Roberts,Cooke and others, June 15 1841
+
 Samuel A. Roberts,Wm. G. Cooke, June 15 1841
+
 Samuel A. Roberts,Rafael Uribe, June 23 1841
+
 Samuel A. Roberts,Van Ness and Morris, June 24 1841
+
 Mirabeau B. Lamar,Mariano Arista, June 24 1841
+
 James Webb,James S. Mayfield, June 29 1841
+
 James Webb,Ignacio de Mora, May 31 1841
+
 Ignacio de Mora,James Webb, May 31 1841
+
 James Webb,R. Pakenham, June 1 1841
+
 R. Pakenham,James Webb, June 10 1841
+
 Sebastian Canacho,R. Pakenham, June 8 1841
+
 R. Pakenham,James S. Mayfield, June 10 1841
+
 James Webb,R. Pakenham, June 16 1841
+
 James Webb,Mirabeau B. Lamar, June 29 1841
+
 Samuel A. Roberts,James Webb, July 7 1841
+
 John D. Morris,Samuel A. Roberts, September 13 1841
+
 John D. Morris,Samuel A. Roberts, September 30 1841
+
 Van Ness and Morris,Rafael Uribe [July 18 1841
+
 Van Ness and Morris,Carrasco, July 25 1841
+
 Van Ness and Morris,Mariano Arista, August 6 1841
+
 Mariano Arista,Van Ness and Morris, August 8 1841
+
 Brenham and Cooke,Secretary of State [Roberts], November 9 1841
+
 Anson Jones,James Hamilton, December 26 1842
+
 Sam Houston,Secretary of State [Jones], June 10 1843
+
 Sam Houston to*Hockley and Williams, February 3 1843
+
 G. W. Hill,Adrian Woll, July 29 1844
+
 Reuben M. Potter,Ashbel Smith, March 18 1845
+
 Mirabeau B. Lamar,Governor of Yucatan, July 20 1841
+
 Miguel Barbachano,Mirabeau B. Lamar, August 24 1841
+
 Martin F. Peraza,Samuel A. Roberts, September 11 1841
+
 Samuel A. Roberts,Martin F. Peraza, September 13 1841
+
 Martin F. Peraza,Samuel A. Roberts, September 18 1841
+
 E. W. Moore,PedrffLemus, January 13 1842
+
 Pedro Lemus,E. W. Moore, January 14 1842
+
 Joaquin G. Rej6n,Secretary of State [Waples, acting], January 18 1842
+
 Joaquin G. Rei6n,Secretary of State [Waples, acting], January 18 1842
+
 Instructions,Peraza, August 24 1841
+
 Joaquin G. Rej6n,President of Texas, April 9 1842
+
 Pedro Lemus,Secretary of State [Rej6n], April 8 1842
+
 R. A. Irion,J. Pinckney Henderson, June 25 1837
+
 J. Pinckney Hendersdh,Secretary of State [Irion], July 24 1837
+
 R. A. Irion,J. Pinckney Henderson, August 23 1837
+
 J. Pinckney Henderson,Secretary of State [Irion], October 14 1837
+
 J. Pinckney Henderson,Lord Palmerston, October 11 1837
+
 I^rd Palmerston,J. Pinckney Henderson, October 12 1837
+
 J. Pinckney Henderson,Lord Palmerston, October 12 1837
+
 J. Pinckney Henderson,R. A. Irion, November 5 1837
+
 J. Pinckney Henderson,Lord Palmerston, October 26 1837
+
 Lord Palmerston,J. Pinckney Henderson, October 31 1837
+
 J. Pinckney Henderson,Lizardi &lt;k Co., October 16 1837
+
 J. Pinckney Henderson,R. A. Irion, December 22 1837
+
 J. Pinckney Henderson,Lord Palmerston, December 6 1837
+
 J. Pinckney Henderson,Lord Palmerston, December 15 1837
+
 Lord Palmerston,J. Pinckney Henderson, December 18 1837
+
 R. A. Irion,J. Pinckney Henderson, January 6 1838
+
 J. Pinckney Henderson,R. A. Irion, January 5 1838
+
 J. Pinckney Henderson,R. A. Irion, January 30 1838
+
 J. Pinckney Henderson,Lord Palmerston, December 29 1837
+
 J. Pinckney Henderson,Lord Palmerston, January 16 1838
+
 J. Pinckney Henderson,Lord Palmerston, January 22 1838
+
 Lord Palmerston,J. Pinckney Henderson, January 23 1838
+
 R. A. Irion,Agent of Lloyds, March 8 1838
+
 R. A. Irion,J. Pinckney Henderson, March 20 1838
+
 J. Pinckney Henderson,R. A. Irion, April 12 1838
+
 J. Pinckney Hendereon,Lord Palmerston, February 12 1838
+
 Lord Palmerston,J. Pinckney Henderson, February 12 1838
+
 J. Pinckney Henderson,Lord Palmerston, March 16 1838
+
 J. Pinckney Henderson,Lord Palmerston, April 5 1838
+
 Lord Palmerston,J. Pinckney Henderson, April 6 1838
+
 J. Pinckney Henderson,Lord Palmerston, April 10 1838
+
 Lord Palmerston,J. Pinckney Henderson, April 11 1838
+
 R. A. Irion,J. Pinckney Henderson, May 20 1838
+
 R. A. Irion,J. Pinckney Henderson, June 6 1838
+
 R. A. Irion,J. Pinckney Henderson, November 28 1838
+
 Jamee Hamilton,H. S. Fox, May 20 1839
+
 H. S. Fox,James Hamilton, May22 1839
+
 David G. Burnet,J. Pinckney Henderson, June 16 1839
+
 David G. Burnet,Jamee Hamilton, August 19,1839 873 
+
 J. Pinckney Henderson,Secretary of State [Burnet], October 16 1839
+
 J. Pinckney Henderson,Secretary of State [Burnet], November 24 1839
+
 J. Pinckney Henderson,Secretary of State [Biumet], November 27 1839
+
 James Hamilton,David G. Burnet, January 5 1840
+
 R. Pakenham,James Hamilton, December 12 1839
+
 Jamee Hamilton,R. Pakenham, January 2 1840
+
 Jamee HamUton,R. Pakenham, January 3 1840
+
 James Buchanan,E. W. Moore, January 7 1840
+
 E. W. Moore,James Buchanan, January 8 1840
+
 James Hamilton,Abner S. Lipecomb, February 25 1840
+
 Jamee Hamilton,Lord Palmerston, February 10 1840
+
 James Treat,Mirabeau B. Lamar, April 29 1840
+
 James Treat,Abner S. Lipscomb, April 29 1840
+
 R. Pakenham,James Treat, April 26 1840
+
 James Treat,Ri. Pakenham, April 28 1840
+
 Abner S. Lipecomb,R. Pakenham, June 6 1840
+
 John Taylor,Mirabeau B. Lamar, July 28 1840
+
 List of negro subjects of Great Britain alleged,be held in slavery in Texas, 
+
 James Hamilton,Abner S. Lipecomb, October 3 1840
+
 Mirabeau B. Lamar,Lord Russell, October 12 1840
+
 Joseph Waples,Wm. Barron, October 12 1840
+
 James Hamilton,Abner S. Lipecomb, October 19 1840
+
 Geo. S. Mcintosh,Mirabeau B. Lamar, October 22 1840
+
 James Hamilton,Abner S. Lipscomb, November 1  1840
+
 James Hamilton,Lord Palmerston, November 5 1840
+
 Abner S. Lipecomb,Wm. Barron, November 18 1840
+
 James Hamilton,Mirabeau B. Lamar, December 3 1840
+
 James Hamilton,Monroe Edwards, November 23 1840
+
 Lord Palmerston,James Hamilton, December 2 1840
+
 James Hamilton,Abner S. Lipscomb, December 3 1840
+
 James Hamilton,Abner S. Lipscomb, December 3 1840
+
 Hamilton and Burnley,James H. Starr, December 3 1840
+
 James Hamilton,Abner S. Lipscomb, January 4 1841
+
 James Hamilton,Lord Palmerston, October 1 1840
+
 Lord Palmerston,James Hamilton, October 18 1840
+
 James Hamilton,Mirabeau B. Lamar, January 4 1841
+
 Lord Palmerston,James Hamilton, January 2 1841
+
 James S. Mayfield,James Hamilton, February 12 1841
+
 James S. Mayfield,James Hamilton, February 12 1841
+
 A. T. Biimley,David G. Burnet, February 21 1841
+
 Arthur Ikin,James S. Mayfield, May 18 1841
+
 James Hamilton,James S. Mayfield, May 18 1841
+
 Samuel A. Roberts,James Hamilton, July 5 1841
+
 John Crawford,Mirabeau B. Lamar, July 30 1841
+
 Lord Palmerston,Mirabeau B. Lamar, April 8 1841
+
 James Hamilton,Samuel A. Roberts, September 3 1841
+
 Anson Jones,James Hamilton, January 26 1842
+
 James Hamilton,Anson Jones, February 8 1842
+
 James Hamilton,Anson Jones, February 14 1842
+
 James Hamilton,Nathaniel Amory, February 8 1842
+
 James Hamilton,Anson Jones, February 18 1842
+
 James Hamilton,Anson Jones, March 4 1842
+
 Anson Jones,Ashbel Smith, March 9 1842
+
 Arthur Ikin,Anson Jones, March 15 1842
+
 Anson Jones,Ashbel Smith, April 4 1842
+
 Geo. Fisher,Anson Jones, April 25 1842
+
 Ashbel Smith,Anson Jones, May 17 1842
+
 Ashbel Smith,Anson Jones, June 3 1842
+
 Ashbel Smith,Anson Jones, June 3 1842
+
 Anson Jones,Ashbel Smith, June 7 1842
+
 Ashbel Smith,Anson Jones, June 18 1842
+
 Ashbel Smith,Anson Jones, June 18 1842
+
 Lord Aberdeen,Secretary of State of Texas [Jones], June 28 1842
+
 Ashbel Smith,Anson Jones, July 3 1842
+
 Ashbel Smith,Anson Jones, July 4 1842
+
 Ashbel Smith,Lord Aberdeen, July 1 1842
+
 Ashbel Smith,Anson Jones, July 11 1842
+
 Ashbel Smith,Edward Everett, May 12 1842
+
 Edward Everett,Ashbel Smith, May 12 1842
+
 Edward Everett,Ashbel Smith, May 13 1842
 Edward Everett,Ashbel Smith, May 13 1842
 Ashbel Smith,Samuel Amory, May 13 1842
