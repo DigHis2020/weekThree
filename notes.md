@@ -22,5 +22,8 @@ I uploaded the sublime text file to Openrefine, with the 'sender, receiever, dat
 I followed the video tutorial and I can definitively say that the format of the first cell (sender, receiever, date were not seperated into different cells) was the reason for the failure. This led to some misguided collection of data that resulted into different clusters being formed. 
 
 The next issue I faced was the confusion in the save file that Openrefine offered me. I clicked EXPORT and I clicked LOCAL FILE. It was saved successfully but it is in a folder with multiple different save files within in with unfamilar names that are unable to open. There are no error messages; a window opens and then closes immediately. 
+
+UPDATE 
+I tried it again, and this time found a button beneath the intitial EXPORT button directing me towards Excel. I saved it to excel. It is in a horrible format. but it is saved and I can look at it. W. 
   
   
